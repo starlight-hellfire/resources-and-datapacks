@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_fence",
+  "key": {
+    "s": {
+      "item": "minecraft:sculk"
+    },
+    "S": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SsS",
+    "SSS"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:sculk"
+  },
+  "show_notification": true
+}
