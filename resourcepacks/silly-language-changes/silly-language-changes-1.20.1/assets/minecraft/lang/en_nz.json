@@ -7,6 +7,23 @@
   "advancements.nether.obtain_blaze_rod.title": "Heat From Fire...",
   "advancements.husbandry.fishy_business.title": "Master Baiter",
 
+  "effect.duration.infinite": "256",
+  "effect.minecraft.hunger": "Samonella",
+
+  "entity.minecraft.allay": "Light Fae",
+  "entity.minecraft.chicken": "Dinosaur",
+  "entity.minecraft.cow": "Bovine",
+  "entity.minecraft.donkey": "Ass",
+  "entity.minecraft.dragon_fireball": "Dragon's Tonsil Stone",
+  "entity.minecraft.enderman": "Enderkin",
+  "entity.minecraft.parrot": "Colorful Dinosaur",
+  "entity.minecraft.rabbit": "bnnuy",
+  "entity.minecraft.vex": "Fallen Fae",
+  "entity.minecraft.wither_skeleton": "Withered Skeleton",
+  "entity.minecraft.zombie_horse": "Zorse",
+  "entity.minecraft.zombie_villager": "Zombie Villager",
+  "entity.minecraft.zombified_piglin": "Zombie Piglin",
+
   "gameMode.creative": "sudo Mode",
 
   "gamerule.announceAdvancements": "announceAdvancements",
